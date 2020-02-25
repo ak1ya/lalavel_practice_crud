@@ -7,7 +7,6 @@ The software used and its versions are as follows.
 
 - PHP 7.3
 - MySQL 8.0
-- Nginx 1.17
 - Laravel 6.0
 - Windows10/OSX Mojave
 
